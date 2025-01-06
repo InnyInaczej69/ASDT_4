@@ -1,0 +1,1 @@
+Dodajemy zmiany do branch'a feature/gitignore
